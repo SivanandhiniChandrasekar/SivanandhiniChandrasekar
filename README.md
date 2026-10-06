@@ -162,14 +162,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SivanandhiniChandrasekar/SivanandhiniChandrasekar/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```text
