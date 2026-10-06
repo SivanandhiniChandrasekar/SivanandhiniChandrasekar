@@ -5,91 +5,143 @@
 </h1>
 
 <h3 align="center">
-  🚀 Data Engineer • 🧠 Problem Solver • ♿ Tech for Impact Builder
+  🚀 Data Engineer | ☁️ Cloud Enthusiast | 🐍 Python & PySpark | 📊 Data & Analytics
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data Engineer;Node.js+%7C+React+%7C+MongoDB;Data+Analysis+Enthusiast;Building+Inclusive+AI+Solutions;Open+to+Full+Stack+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Enthusiast;AWS+%7C+Azure+%7C+PySpark;Python+%7C+SQL+%7C+Data+Analytics;Building+Cloud-Based+Data+Pipelines;Learning+Generative+AI+%26+Agentic+AI" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-*✨ I design and build scalable full-stack applications with real-world impact.
-
-*🔍 Strong foundation in **JavaScript, Node.js, and data analysis**.
-
-*📊 Love turning raw data into meaningful insights.
-
-*♿ Passionate about **AI-powered assistive technology**.
-
-*🏆 Special Prize — Women Hackathon 2024.
-*🎯 Currently seeking **Full-Stack Developer opportunities**.
+- 👩‍💻 Working at **UST** and building my skills in **Data Engineering and Cloud technologies**.
+- ☁️ Hands-on experience with **AWS services** including S3, Lambda, AWS Glue, Redshift and IAM.
+- 🔷 Exploring **Azure Data Engineering** with Azure Data Lake Storage, Data Factory and Databricks.
+- 🐍 Comfortable working with **Python, SQL and PySpark** for data processing and analysis.
+- 📊 Interested in building **ETL pipelines, data platforms and analytics solutions**.
+- 🤖 Currently exploring **Generative AI and Agentic AI**.
+- 🧩 Passionate about continuous learning, problem solving and building practical solutions.
 
 ---
 
-## 🧠 What Makes Me Different
+## 🧠 What I Work With
 
-* 🚀 Blend of **Full Stack + Data + Accessibility**
-* 🧩 Consistent problem solver (LeetCode streak)
-* 🛠️ Hands-on with complete product lifecycle
-* ♿ Mission-driven: tech for inclusive education
-* 🐳 Experience with Dockerized backend systems
+- ☁️ **Cloud Data Engineering**
+- 🔄 **ETL / Data Pipelines**
+- 🐍 **Python & PySpark**
+- 🗄️ **SQL & Databases**
+- 📊 **Data Analysis & Visualization**
+- 🤖 **Generative AI & Agentic AI**
+- 🧩 **Problem Solving & DSA**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### 🐍 Programming & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### ⚙️ Backend & Database
+**Python • SQL • PySpark • NumPy • pandas • matplotlib**
+
+---
+
+### ☁️ AWS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-### 🎨 Frontend
+**Amazon S3 • AWS Lambda • AWS Glue • Amazon Redshift • IAM**
+
+---
+
+### 🔷 Azure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=azure,databricks" />
 </p>
 
-### 📊 Data & Visualization
+**Azure Data Lake Storage • Azure Data Factory • Azure Databricks • Azure SQL • Cosmos DB**
+
+---
+
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧪 Tools
+**MySQL • MongoDB • Amazon Redshift • Azure SQL**
+
+---
+
+### ⚙️ Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,nodejs,react" />
 </p>
+
+**Git • GitHub • Docker • Postman • Node.js • React**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Full Stack Platform
+### 🏦 AWS Banking Data Engineering Pipeline
 
-* 🔐 JWT Authentication
-* 🔎 Apache Solr search
-* 🗄️ SQLite database
-* 🐳 Docker deployment
-* ⚡ REST API architecture
+- ☁️ Built a cloud-based data pipeline using **Amazon S3, Lambda, AWS Glue and Redshift**.
+- 🔄 Implemented data validation, processing and movement across **Raw → Processed → Curated** layers.
+- 🗄️ Designed staging and target tables in **Amazon Redshift**.
+- 📋 Implemented ETL auditing and data quality checks.
+- 📊 Worked with structured banking transaction and customer data.
 
 ---
 
-### 📊 Sorting Algorithm Visualizer
+### 🍔 Azure Swiggy Data Engineering Project
 
-* 🎯 Interactive learning tool
-* ⏱️ Speed-based complexity analysis
-* 🎨 Clean visualization UI
+- ☁️ Built a data engineering workflow using **ADLS, Azure Data Factory and Databricks**.
+- ⚡ Used **PySpark** for data transformation and analysis.
+- 🗄️ Worked with **Azure SQL and Cosmos DB**.
+- 📊 Analyzed restaurant data based on **city, cuisine, ratings and cost**.
+- 🔄 Explored cloud-based ETL and data processing workflows.
+
+---
+
+### 🛒 E-Commerce Full Stack Platform
+
+- 🔐 Implemented JWT-based authentication.
+- ⚡ Developed REST APIs using **Node.js and Express**.
+- 🔎 Integrated **Apache Solr** for search.
+- 🗄️ Worked with SQL-based data storage.
+- 🐳 Dockerized the backend application.
+
+---
+
+## 📚 Currently Learning
+
+- ☁️ Advanced **AWS Data Engineering**
+- ⚡ **PySpark & Spark Optimization**
+- 🔷 **Azure Databricks & Data Engineering**
+- 🗄️ Advanced **SQL**
+- 🤖 **Generative AI & Agentic AI**
+- 🧩 **DSA & Problem Solving**
+- 🏗️ Data Pipeline & System Design
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Best Outgoing Student Award – 2025**
+- 🏅 **College Topper / First Rank**
+- 💻 **100+ LeetCode Problems**
+- 🏆 **Women Hackathon – Special Prize**
+- 🏆 **Niral Thiruvizha Tech4All – Pre-Finalist & Prize Winner**
+- 📜 **Claude Developer Certification – Foundational**
 
 ---
 
@@ -120,18 +172,20 @@
 
 ## 🎯 Current Focus
 
-* 🔥 Data Engineer
-* 🧠 System Design fundamentals
-* 🤖 AI for Accessibility
-* 📊 Data-driven backend systems
-* 🧩 Advanced DSA practice
-
----
+```text
+Data Engineering       ████████████████████░  Learning & Building
+AWS                    ███████████████████░░  Hands-on
+Azure                  █████████████████░░░░  Hands-on
+PySpark                ████████████████░░░░░  Building
+Python & SQL           ████████████████████░  Strong Focus
+Generative AI          ███████████████░░░░░░  Exploring
+Agentic AI             █████████████░░░░░░░░  Learning
+```
 
 ---
 
 <p align="center">
-  ⭐ <i>“Code with purpose. Build with impact.”</i>
+  ⭐ <i>“Learn continuously. Build practically. Grow consistently.”</i>
 </p>
 
 <!-- ======================= END ======================= -->
