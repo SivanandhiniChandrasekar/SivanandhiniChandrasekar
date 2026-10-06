@@ -40,53 +40,23 @@
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming & Data
+### ☁️ Cloud & Data Engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks,python" />
 </p>
 
-**Python • SQL • PySpark • NumPy • pandas • matplotlib**
+### 🗄️ Databases & Data
 
----
-
-### ☁️ AWS
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-**Amazon S3 • AWS Lambda • AWS Glue • Amazon Redshift • IAM**
-
----
-
-### 🔷 Azure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,databricks" />
-</p>
-
-**Azure Data Lake Storage • Azure Data Factory • Azure Databricks • Azure SQL • Cosmos DB**
-
----
-
-### 🗄️ Databases
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**MySQL • MongoDB • Amazon Redshift • Azure SQL**
-
----
-
 ### ⚙️ Development & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,nodejs,react" />
 </p>
-
-**Git • GitHub • Docker • Postman • Node.js • React**
 
 ---
 
