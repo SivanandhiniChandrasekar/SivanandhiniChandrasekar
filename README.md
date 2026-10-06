@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Enthusiast;AWS+%7C+Azure+%7C+PySpark;Python+%7C+SQL+%7C+Data+Analytics;Building+Cloud-Based+Data+Pipelines;Learning+Generative+AI+%26+Agentic+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=700&lines=Data+Engineering+Enthusiast;AWS+%7C+Azure+%7C+PySpark;Python+%7C+SQL+%7C+Data+Analytics;Building+Cloud-Based+Data+Pipelines;Learning+Generative+AI+%26+Agentic+AI" />
 </p>
 
 ---
