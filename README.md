@@ -43,19 +43,47 @@
 ### ☁️ Cloud & Data Engineering
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,databricks,python" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks" />
 </p>
-
-### 🗄️ Databases & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  AWS • Azure • Databricks • PySpark • ETL • Data Pipelines
 </p>
+
+---
+
+### 💻 Programming & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" />
+</p>
+
+<p align="center">
+  Python • SQL • MySQL • MongoDB • NumPy • pandas
+</p>
+
+---
 
 ### ⚙️ Development & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,nodejs,react" />
+</p>
+
+<p align="center">
+  Git • GitHub • Docker • Postman • Node.js • React
+</p>
+
+---
+
+### 🤖 AI & Analytics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  Generative AI • Agentic AI • Data Analysis • matplotlib
 </p>
 
 ---
